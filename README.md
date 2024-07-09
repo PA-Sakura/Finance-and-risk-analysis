@@ -5,15 +5,15 @@ Mr Patrick Jyenger wants to invest $500K in equities. He has been a conservative
 
 Mr Peter Jyenger wants to invest $1 million in equities. He has been a high-risk investor his life, prefers high-return investment, and expects to double his capital with high risk in 5 years.
 
-## EXPLORATORY DATA ANALYSIS:
+## EXPLORATORY DATA ANALYSIS
 Checked the Null values in the dataset. It was found that no columns have null values.
 Checked for the outliers in the dataset.
 
-## DATA ANALYSIS:
+## DATA ANALYSIS
 Analyzed the stock data using different calculations like daily returns, cumulative daily return, Sharpe ratio, Portfolio risk, and Return on investment(ROI).
 Find the best suitable stocks for all portfolios.
 
-## INFERENCES AFTER ANALYSING THE DATA:
+## INFERENCES AFTER ANALYSING THE DATA
 As I found out that 8 stocks gave more than 80% in the last five years of the stock market. The stocks that give the best return among all stocks are AMZN, MSFT, AAPL, FB, UNH, GOOG, MS, and S&P500. Each stock has different risks and liabilities according to its Annualized risk, Sharpe ratio. I found out that AMZN gives the highest return among all stocks but has a high risk as compared to other stocks. We also found that stocks like JNJ, RHHBY, MRK, and MSFT have good returns with less risk. So after doing all the analysis, we have finalized the portfolio for both the customers.
 
 
