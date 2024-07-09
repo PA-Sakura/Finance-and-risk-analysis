@@ -5,6 +5,9 @@ Mr Patrick Jyenger wants to invest $500K in equities. He has been a conservative
 
 Mr Peter Jyenger wants to invest $1 million in equities. He has been a high-risk investor his life, prefers high-return investment, and expects to double his capital with high risk in 5 years.
 
+# Instructions to run the code.
+Use the Dataset folder as raw data to run the code.
+
 ## EXPLORATORY DATA ANALYSIS
 Checked the Null values in the dataset. It was found that no columns have null values.
 Checked for the outliers in the dataset.
